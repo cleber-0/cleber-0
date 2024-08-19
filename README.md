@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, esse é meu perfil! Seja bem vindo! 🦫
 
-<!--
-**cleber-0/cleber-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cleber
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Você pode entrar em contato comigo📧
+
+ 00001131414810SP@al.educacao.sp.gov.br
+
+
+ ![](https://tenor.com/pt-BR/view/1st-day-of-school-gif-15846501474444235850)
+  
+
